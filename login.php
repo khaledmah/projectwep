@@ -41,19 +41,11 @@
         </div>
         <div class="form-group">
             <div class="col-sm-offset-2 col-sm-10">
-                <button type="submit" class="btn btn-default" onclick="myFunction(form.username.value)">Submit</button>
+                <button type="submit" class="btn btn-default" >enter</button>
             </div>
         </div>
     </form>
 </div>
-<script>
-    function myFunction() {
-        var str =document.getElementById('email').value;
-        var patt1 = /([A-Z][a-z])/;
-        var result = patt1.test(str);
 
-
-    }
-</script>
 </body>
 </html>
