@@ -1,2 +1,1 @@
 # islamic
-# islamic
